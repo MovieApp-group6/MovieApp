@@ -1,5 +1,5 @@
 # project_group6
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -18,6 +18,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+#använda API:er:
+
+## Google Books:
+Google Books API: 'AIzaSyCiacpoq_ch0kRr3MiZGoVifVPrAbQjBCQ'
+Google Books URL: 'https://www.googleapis.com/books/v1/volumes'
+
+## The Movie Database (TMDB):
+TMDB API: '0d79d730fff942862b97a7f954332e81'
+TMDB URL: 'https://api.themoviedb.org/3/search/movie'
+
 
 # Jämförelse av Ramverk
 
