@@ -19,6 +19,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+#använda API:er:
+
+## Google Books:
+Google Books API: 'AIzaSyCiacpoq_ch0kRr3MiZGoVifVPrAbQjBCQ'
+Google Books URL: 'https://www.googleapis.com/books/v1/volumes'
+
+## The Movie Database (TMDB):
+TMDB API: '0d79d730fff942862b97a7f954332e81'
+TMDB URL: 'https://api.themoviedb.org/3/search/movie'
+
+
 # Jämförelse av Ramverk
 
 Denna README-fil syftar till att ge en jämförelse av olika ramverk. Nedan hittar du en översikt över de viktigaste ramverken med källreferenser för ytterligare information.
