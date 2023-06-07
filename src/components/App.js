@@ -8,7 +8,8 @@ import MovieDetails from './MovieDetails';
 import Home from './Home';
 import NavbarComponent from './NavbarComponent';
 
-const API_KEY = '0d79d730fff942862b97a7f954332e81';
+// Api nyckel för filmer 
+const API_KEY = '0d79d730fff942862b97a7f954332e81'
 
 function App() {
   const [movies, setMovies] = useState([]);
